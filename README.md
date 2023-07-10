@@ -69,3 +69,17 @@
 - O bloco `else` sempre precisa de um `if` ou `elseif` antes -O bloco `else` só executa se nenhuma das condições anteriores forem verdadeiras;
 
 - Através do `&&` (AND lógico) e do `||` (OR lógico) podemos avaliar mais de uma condição.
+
+### Aula 05
+
+- Existem algumas variações de laços, dentre elas:
+
+  - `while` que possui uma condição de entrada;
+  - `do-while` que possui uma condição de permanência (sempre executa o bloco pelo menos uma vez);
+  - `for` que possui a declaração de uma variável, uma condição entrada e o increment;
+
+- Dentro do bloco do laço podemos pular uma interação com o comando `continue`;
+
+- Com o comando `break` podemos sair do laço;
+
+- A variável `contador` normalmente se chama `i`.
